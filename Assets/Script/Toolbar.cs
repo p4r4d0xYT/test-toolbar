@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Menu : MonoBehaviour
+public class Toolbar : MonoBehaviour
 {
+	public Text time;
 
 	// Use this for initialization
 	void Start () {

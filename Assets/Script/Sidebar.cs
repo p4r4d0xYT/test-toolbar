@@ -10,7 +10,9 @@ public class Sidebar : MonoBehaviour
         closed, open, opening, closing
     }
     public State currentState;
+    public Sprite[] icons;
 
+    public GameManager gameManager;
     Animator anim;
 
     // Use this for initialization
@@ -32,12 +34,16 @@ public class Sidebar : MonoBehaviour
     {
         if (currentState == State.closed) {
             anim.SetTrigger ("Open");
-            expandButton.GetComponent<RectTransform> ().rotation = Quaternion.Euler (0, 0, -90f);
+            expandButton.GetComponent<Image>().sprite = icons[1];
+            //expandButton.GetComponent<RectTransform> ().rotation = Quaternion.Euler (0, 0, -90f);
             currentState = State.open;
+            GameManager.instance.isPaused = true;
         } else if (currentState == State.open) {
             anim.SetTrigger ("Close");
-            expandButton.GetComponent<RectTransform> ().rotation = Quaternion.Euler (0, 0, 90f);
+            expandButton.GetComponent<Image>().sprite = icons[0];
+            //expandButton.GetComponent<RectTransform> ().rotation = Quaternion.Euler (0, 0, 90f);
             currentState = State.closed;
+            GameManager.instance.isPaused = false;
         }
     }
 }

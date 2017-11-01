@@ -1,14 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
-public class Menu : MonoBehaviour
+public class GameManager : MonoBehaviour
 {
+	public static GameManager instance;
+	public bool isPaused;
 
 	// Use this for initialization
-	void Start () {
-		
+	void Awake () {
+		instance = this;
 	}
 	
 	// Update is called once per frame

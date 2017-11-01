@@ -1,0 +1,332 @@
+fileFormatVersion: 2
+guid: fea947108cb14034ba5c276c389cf8d5
+timeCreated: 1509553338
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: settings
+    21300002: ui-icons-222222-256x240_1
+    21300004: ui-icons-222222-256x240_2
+    21300006: ui-icons-222222-256x240_3
+    21300008: ui-icons-222222-256x240_4
+    21300010: ui-icons-222222-256x240_5
+    21300012: ui-icons-222222-256x240_6
+    21300014: ui-icons-222222-256x240_7
+    21300016: ui-icons-222222-256x240_8
+    21300018: ui-icons-222222-256x240_9
+    21300020: ui-icons-222222-256x240_10
+    21300022: ui-icons-222222-256x240_11
+    21300024: ui-icons-222222-256x240_12
+    21300026: ui-icons-222222-256x240_13
+    21300028: ui-icons-222222-256x240_14
+    21300030: ui-icons-222222-256x240_15
+    21300032: ui-icons-222222-256x240_16
+    21300034: ui-icons-222222-256x240_17
+    21300036: ui-icons-222222-256x240_18
+    21300038: ui-icons-222222-256x240_19
+    21300040: ui-icons-222222-256x240_20
+    21300042: ui-icons-222222-256x240_21
+    21300044: ui-icons-222222-256x240_22
+    21300046: ui-icons-222222-256x240_23
+    21300048: ui-icons-222222-256x240_24
+    21300050: ui-icons-222222-256x240_25
+    21300052: ui-icons-222222-256x240_26
+    21300054: ui-icons-222222-256x240_27
+    21300056: ui-icons-222222-256x240_28
+    21300058: ui-icons-222222-256x240_29
+    21300060: ui-icons-222222-256x240_30
+    21300062: ui-icons-222222-256x240_31
+    21300064: ui-icons-222222-256x240_32
+    21300066: ui-icons-222222-256x240_33
+    21300068: ui-icons-222222-256x240_34
+    21300070: ui-icons-222222-256x240_35
+    21300072: ui-icons-222222-256x240_36
+    21300074: ui-icons-222222-256x240_37
+    21300076: ui-icons-222222-256x240_38
+    21300078: ui-icons-222222-256x240_39
+    21300080: ui-icons-222222-256x240_40
+    21300082: ui-icons-222222-256x240_41
+    21300084: ui-icons-222222-256x240_42
+    21300086: ui-icons-222222-256x240_43
+    21300088: ui-icons-222222-256x240_44
+    21300090: ui-icons-222222-256x240_45
+    21300092: ui-icons-222222-256x240_46
+    21300094: ui-icons-222222-256x240_47
+    21300096: ui-icons-222222-256x240_48
+    21300098: ui-icons-222222-256x240_49
+    21300100: ui-icons-222222-256x240_50
+    21300102: ui-icons-222222-256x240_51
+    21300104: ui-icons-222222-256x240_52
+    21300106: ui-icons-222222-256x240_53
+    21300108: ui-icons-222222-256x240_54
+    21300110: ui-icons-222222-256x240_55
+    21300112: ui-icons-222222-256x240_56
+    21300114: ui-icons-222222-256x240_57
+    21300116: ui-icons-222222-256x240_58
+    21300118: ui-icons-222222-256x240_59
+    21300120: ui-icons-222222-256x240_60
+    21300122: ui-icons-222222-256x240_61
+    21300124: ui-icons-222222-256x240_62
+    21300126: ui-icons-222222-256x240_63
+    21300128: ui-icons-222222-256x240_64
+    21300130: ui-icons-222222-256x240_65
+    21300132: ui-icons-222222-256x240_66
+    21300134: ui-icons-222222-256x240_67
+    21300136: ui-icons-222222-256x240_68
+    21300138: ui-icons-222222-256x240_69
+    21300140: ui-icons-222222-256x240_70
+    21300142: ui-icons-222222-256x240_71
+    21300144: ui-icons-222222-256x240_72
+    21300146: ui-icons-222222-256x240_73
+    21300148: ui-icons-222222-256x240_74
+    21300150: ui-icons-222222-256x240_75
+    21300152: ui-icons-222222-256x240_76
+    21300154: ui-icons-222222-256x240_77
+    21300156: ui-icons-222222-256x240_78
+    21300158: ui-icons-222222-256x240_79
+    21300160: ui-icons-222222-256x240_80
+    21300162: ui-icons-222222-256x240_81
+    21300164: ui-icons-222222-256x240_82
+    21300166: ui-icons-222222-256x240_83
+    21300168: ui-icons-222222-256x240_84
+    21300170: ui-icons-222222-256x240_85
+    21300172: ui-icons-222222-256x240_86
+    21300174: ui-icons-222222-256x240_87
+    21300176: ui-icons-222222-256x240_88
+    21300178: ui-icons-222222-256x240_89
+    21300180: ui-icons-222222-256x240_90
+    21300182: ui-icons-222222-256x240_91
+    21300184: ui-icons-222222-256x240_92
+    21300186: ui-icons-222222-256x240_93
+    21300188: ui-icons-222222-256x240_94
+    21300190: ui-icons-222222-256x240_95
+    21300192: ui-icons-222222-256x240_96
+    21300194: ui-icons-222222-256x240_97
+    21300196: ui-icons-222222-256x240_98
+    21300198: ui-icons-222222-256x240_99
+    21300200: ui-icons-222222-256x240_100
+    21300202: ui-icons-222222-256x240_101
+    21300204: ui-icons-222222-256x240_102
+    21300206: ui-icons-222222-256x240_103
+    21300208: ui-icons-222222-256x240_104
+    21300210: ui-icons-222222-256x240_105
+    21300212: ui-icons-222222-256x240_106
+    21300214: ui-icons-222222-256x240_107
+    21300216: ui-icons-222222-256x240_108
+    21300218: ui-icons-222222-256x240_109
+    21300220: ui-icons-222222-256x240_110
+    21300222: ui-icons-222222-256x240_111
+    21300224: ui-icons-222222-256x240_112
+    21300226: ui-icons-222222-256x240_113
+    21300228: ui-icons-222222-256x240_114
+    21300230: ui-icons-222222-256x240_115
+    21300232: ui-icons-222222-256x240_116
+    21300234: ui-icons-222222-256x240_117
+    21300236: ui-icons-222222-256x240_118
+    21300238: ui-icons-222222-256x240_119
+    21300240: ui-icons-222222-256x240_120
+    21300242: ui-icons-222222-256x240_121
+    21300244: ui-icons-222222-256x240_122
+    21300246: ui-icons-222222-256x240_123
+    21300248: ui-icons-222222-256x240_124
+    21300250: ui-icons-222222-256x240_125
+    21300252: ui-icons-222222-256x240_126
+    21300254: ui-icons-222222-256x240_127
+    21300256: ui-icons-222222-256x240_128
+    21300258: ui-icons-222222-256x240_129
+    21300260: ui-icons-222222-256x240_130
+    21300262: ui-icons-222222-256x240_131
+    21300264: ui-icons-222222-256x240_132
+    21300266: ui-icons-222222-256x240_133
+    21300268: ui-icons-222222-256x240_134
+    21300270: ui-icons-222222-256x240_135
+    21300272: ui-icons-222222-256x240_136
+    21300274: ui-icons-222222-256x240_137
+    21300276: ui-icons-222222-256x240_138
+    21300278: ui-icons-222222-256x240_139
+    21300280: ui-icons-222222-256x240_140
+    21300282: ui-icons-222222-256x240_141
+    21300284: ui-icons-222222-256x240_142
+    21300286: ui-icons-222222-256x240_143
+    21300288: ui-icons-222222-256x240_144
+    21300290: ui-icons-222222-256x240_145
+    21300292: ui-icons-222222-256x240_146
+    21300294: ui-icons-222222-256x240_147
+    21300296: ui-icons-222222-256x240_148
+    21300298: ui-icons-222222-256x240_149
+    21300300: ui-icons-222222-256x240_150
+    21300302: ui-icons-222222-256x240_151
+    21300304: ui-icons-222222-256x240_152
+    21300306: ui-icons-222222-256x240_153
+    21300308: ui-icons-222222-256x240_154
+    21300310: ui-icons-222222-256x240_155
+    21300312: ui-icons-222222-256x240_156
+    21300314: ui-icons-222222-256x240_157
+    21300316: ui-icons-222222-256x240_158
+    21300318: ui-icons-222222-256x240_159
+    21300320: ui-icons-222222-256x240_160
+    21300322: ui-icons-222222-256x240_161
+    21300324: ui-icons-222222-256x240_162
+    21300326: ui-icons-222222-256x240_163
+    21300328: ui-icons-222222-256x240_164
+    21300330: ui-icons-222222-256x240_165
+    21300332: ui-icons-222222-256x240_166
+    21300334: ui-icons-222222-256x240_167
+    21300336: ui-icons-222222-256x240_168
+    21300338: ui-icons-222222-256x240_169
+    21300340: ui-icons-222222-256x240_170
+    21300342: ui-icons-222222-256x240_171
+    21300344: ui-icons-222222-256x240_172
+    21300346: home
+    21300348: shop
+    21300350: play
+    21300352: pause
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: settings
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: home
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: shop
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: play
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: pause
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
